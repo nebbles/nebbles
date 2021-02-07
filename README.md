@@ -1,4 +1,10 @@
-### Hi there 👋
+### Product Manager at [Cytera](https://github.com/cytera)  ▷  Designer & Engineer by trade
+
+Python, C/C++, Java, Javascript, Typescript
+
+[LinkedIn]
+
+[LinkedIn]: https://www.linkedin.com/in/bsdgreenberg/
 
 <!--
 **nebbles/nebbles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
