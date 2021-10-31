@@ -1,4 +1,4 @@
-### Product Manager at [Cytera](https://github.com/cytera)  ▷  Designer & Engineer by trade
+### Product Manager, Designer, and Engineer at [Mytos](https://github.com/mytosbio)
 
 Python, C/C++, Java, Javascript, Typescript
 
