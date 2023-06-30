@@ -1,6 +1,8 @@
-### Product Manager, Designer, and Engineer at [Mytos](https://github.com/mytosbio)
+### Designer and Engineer, Product Development at [Mytos](https://github.com/mytosbio)
 
-Python, C/C++, Java, Javascript, Typescript
+_Current experience..._ Javascript, Typescript, React, Node.js, Heroku, AWS, Docker, MQTT (PubSub), Raspberry Pi
+
+_Past experience..._ Python, C/C++, Java
 
 [LinkedIn]
 
