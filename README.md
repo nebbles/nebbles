@@ -1,4 +1,4 @@
-### Designer and Engineer, Product Development at [Mytos](https://github.com/mytosbio)
+### Designer and Engineer
 
 _Current experience..._ Javascript, Typescript, React, Node.js, Heroku, AWS, Docker, MQTT (PubSub), Raspberry Pi
 
